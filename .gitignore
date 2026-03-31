@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+dist/
+build/
+.temp/
+temp/
+*.zip
+*.rar
+*.7z
+.env
+.env.local
+.env.*.local
+coverage/
